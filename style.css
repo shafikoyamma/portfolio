@@ -88,6 +88,10 @@ ul{
 .ctHome:hover{
     background: #529ae6;
 }
+.ctHome:focus{
+    background: #529ae6;
+
+}
 .nondec{
     color: white;
 }
