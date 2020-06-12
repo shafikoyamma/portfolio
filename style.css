@@ -84,3 +84,14 @@ ul{
     border-color: #007bff;
     margin-left: 0em;
 }
+
+.ctHome:hover{
+    background: #529ae6;
+}
+.nondec{
+    color: white;
+}
+.nondec:hover{
+    color: white;
+    text-decoration: none;
+}
