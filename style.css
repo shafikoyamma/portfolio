@@ -50,10 +50,11 @@
     width: 70%;
 }
 footer{
-    height: 4em;
+    /* height: 4em; */
 }
 .img-linkdn{
     width: 4em;
+    /* margin-right: 5em; */
 
 }
 .link-con{
@@ -61,7 +62,7 @@ footer{
     background: white;
 }
 .img-fb{
-    width: 5em;
+    width: 4em;
 }
 
 .img-wht{
